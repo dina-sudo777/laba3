@@ -366,4 +366,4 @@ int main() {
 }
 ```
 # Результаты
-<img width="624" height="92" alt="2" src="https://github.com/user-attachments/assets/745d8ff7-585c-4db9-b6b3-2bb3fea5baea" />
+<img width="624" height="92" alt="2" src="https://github.com/dina-sudo777/laba3/blob/main/Снимок.PNG?raw=true" />
