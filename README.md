@@ -365,3 +365,5 @@ int main() {
     return 0;
 }
 ```
+# Результаты
+<img width="624" height="92" alt="2" src="https://github.com/user-attachments/assets/745d8ff7-585c-4db9-b6b3-2bb3fea5baea" />
