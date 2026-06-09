@@ -166,4 +166,4 @@ if __name__ == "__main__":
 
 ```
 # Результаты
-<img width="800" height="800" alt="2" src="Снимок.PNG" />
+<img width="800" height="800" alt="2" src="1.PNG" />
